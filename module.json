@@ -1,0 +1,82 @@
+{
+  "id": "t20-tabela-de-tesouros-revisada",
+  "title": "T20 - Tabela de Tesouros Revisada",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Tabela de Tesouros revisada com os demais itens, feito pelo Guilherme Svaldi e disponível aqui: https://docs.google.com/spreadsheets/d/18n22comQYq8L1QSucDbIecWnNsrjJb-paQUoU0FkX5Y/edit?usp=sharing.</p>",
+  "authors": [
+    {
+      "name": "Ruan Mendonça",
+      "flags": {}
+    },
+    {
+      "name": "Arielton Brito",
+      "flags": {}
+    },
+    {
+      "name": "Luiz \"Raposo\" Nogueira",
+      "discord": "raposo_el",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "ttens",
+      "label": "Itens - Tabela de Tesouro",
+      "path": "packs/ttens",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    },
+    {
+      "name": "macro",
+      "label": "Macro - Tabela de Tesouros",
+      "path": "packs/macro",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    },
+    {
+      "name": "tabelas",
+      "label": "Tabelas de Tesouro",
+      "path": "packs/tabelas",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Tabela de Tesouros",
+      "sorting": "a",
+      "color": "#B0892D",
+      "packs": [
+        "itens",
+        "macro",
+        "tabelas"
+      ]
+    }
+  ],
+  "url": "https://github.com/raposoel/T20---Tesouros",
+  "manifest": "https://raw.githubusercontent.com/raposoel/T20---Tesouros/refs/heads/main/module.json",
+  "download": "https://codeload.github.com/raposoel/T20---Tesouros/zip/main",
+  "flags": {}
+}
