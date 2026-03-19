@@ -1,7 +1,7 @@
 {
   "id": "t20-tabela-de-tesouros-revisada",
   "title": "T20 - Tabela de Tesouros Revisada",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -27,7 +27,7 @@
   },
   "packs": [
     {
-      "name": "ttens",
+      "name": "itens",
       "label": "Itens - Tabela de Tesouro",
       "path": "packs/ttens",
       "type": "Item",
