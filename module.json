@@ -75,8 +75,8 @@
       ]
     }
   ],
-  "url": "https://github.com/raposoel/T20---Tesouros",
-  "manifest": "https://raw.githubusercontent.com/raposoel/T20---Tesouros/refs/heads/main/module.json",
-  "download": "https://codeload.github.com/raposoel/T20---Tesouros/zip/main",
+  "url": "https://github.com/raposoel/T20-Tabelas-de-Tesouro-Revisada",
+  "manifest": "https://raw.githubusercontent.com/raposoel/T20-Tabelas-de-Tesouro-Revisada/refs/heads/main/module.json",
+  "download": "https://codeload.github.com/raposoel/T20-Tabelas-de-Tesouro-Revisada/zip/main",
   "flags": {}
 }
